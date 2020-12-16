@@ -88,6 +88,10 @@ body {
   margin: 0;
 }
 
+#about-me .formation div {
+  margin-bottom: 5px;
+}
+
 #about-me .language {
   margin-bottom: 32px;
 }
